@@ -1,0 +1,1 @@
+This repository contains the script and the presentation slides for the talk 'If People Were Data: How to Think About Modern Migration Infrastructures' at the Passau Summer School for Applied Ethics 2026.
